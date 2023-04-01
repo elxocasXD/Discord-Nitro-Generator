@@ -1,5 +1,7 @@
 # Discord Nitro Generator and Checker
 
+![GEN](https://imgur.com/a/HtJcEBV)
+
 ## How to install
 - Make sure you download python: https://www.python.org/downloads/
 - Install "request" and "colorama" in CMD
