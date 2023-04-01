@@ -1,4 +1,4 @@
-# Discord Nitro Generator and Checker
+# Trip Hub Gen
 
 ![GEN](https://i.imgur.com/1MMgy1E.png)
 
@@ -9,3 +9,5 @@
 
 ## Information
 I recommend that you generate 10,000 nitro codes, the valid codes will appear in the "Valid Codes" file
+
+## Information
