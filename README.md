@@ -4,7 +4,7 @@
 
 ## How to install
 - Make sure you download python: https://www.python.org/downloads/
-- Install "request" and "colorama" in CMD
+- Install "request" and "colorama" in CMD with this command: pip install request or colorama
 - And finally execute the file "run.bat"
 
 ## Information
