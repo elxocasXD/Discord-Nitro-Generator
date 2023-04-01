@@ -1,6 +1,6 @@
 # Discord Nitro Generator and Checker
 
-![GEN](https://imgur.com/a/HtJcEBV)
+![GEN](https://i.imgur.com/1MMgy1E.png)
 
 ## How to install
 - Make sure you download python: https://www.python.org/downloads/
