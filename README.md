@@ -10,4 +10,5 @@
 ## Information
 I recommend that you generate 10,000 nitro codes, the valid codes will appear in the "Valid Codes" file
 
-## Information
+## Support 
+if there are errors contact me on discord, you can find me as: Space#0234
